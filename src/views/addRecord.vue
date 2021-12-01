@@ -52,7 +52,7 @@
       <input type="text" class="form-control" id="recordName" name="recordName" v-model="recordName" placeholder="Enter record's name">
     </div>
   <div class="form-group ">
-      <label for="inputZip">Scan File</label>
+      <label for="inputZip">Record ID</label>
       <input type="text" class="form-control" id="recordId" name = "recordId" v-model="recordId" placeholder="Enter record's id">
     </div>
   <button type="submit" class="btn btn-dark">Add Record</button>
